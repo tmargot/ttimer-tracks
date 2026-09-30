@@ -1,0 +1,479 @@
+{
+  "schema": 1,
+  "catalog_version": "2026.09.30.2",
+  "generated_at": "2026-09-30T18:56:12Z",
+  "data_tag": "v2026.09.30.2",
+  "data_license": "ODbL-1.0",
+  "attribution": "© OpenStreetMap contributors; Wikidata (CC0)",
+  "venues": [
+    {
+      "id": "gb-whilton-mill",
+      "name": "Whilton Mill",
+      "country": "GB",
+      "lat": 52.2772,
+      "lon": -1.0894,
+      "radius_m": 600,
+      "aliases": [
+        "Whilton Mill Kart Circuit"
+      ],
+      "provenance": {
+        "osm": [
+          "way/1208351124",
+          "way/1208351123",
+          "way/244268438",
+          "way/1208351121",
+          "way/1208351112",
+          "way/1208351122",
+          "way/1208351119",
+          "way/1208351120",
+          "way/1208351115",
+          "way/1208334016",
+          "way/1208351116",
+          "way/1208351125",
+          "way/1208351117",
+          "way/1208351126",
+          "way/1208334015"
+        ]
+      },
+      "layouts": [
+        {
+          "id": "gb-whilton-mill-circuit",
+          "name": "Circuit",
+          "length_m": 946,
+          "direction": "cw",
+          "revision": 1,
+          "status": "timing",
+          "track_url": "tracks/gb-whilton-mill-circuit.v1.json",
+          "sha256": "2b87ca0c80085979ce8c08a7cce2b88e8a0cf0dc04d4264fe2bc9d0f9d5f8fca",
+          "bytes": 6862
+        }
+      ]
+    },
+    {
+      "id": "gb-silverstone",
+      "name": "Silverstone Circuit",
+      "country": "GB",
+      "lat": 52.075,
+      "lon": -1.016667,
+      "radius_m": 2000,
+      "aliases": [
+        "Silverstone"
+      ],
+      "provenance": {
+        "wikidata": "Q171402"
+      },
+      "layouts": [
+        {
+          "id": "gb-silverstone-gp",
+          "name": "Grand Prix",
+          "revision": 1,
+          "status": "none"
+        },
+        {
+          "id": "gb-silverstone-national",
+          "name": "National",
+          "revision": 1,
+          "status": "none"
+        },
+        {
+          "id": "gb-silverstone-international",
+          "name": "International",
+          "revision": 1,
+          "status": "none"
+        }
+      ]
+    },
+    {
+      "id": "gb-brands-hatch",
+      "name": "Brands Hatch",
+      "country": "GB",
+      "lat": 51.356667,
+      "lon": 0.2625,
+      "radius_m": 1500,
+      "aliases": [],
+      "provenance": {
+        "wikidata": "Q172880"
+      },
+      "layouts": [
+        {
+          "id": "gb-brands-hatch-indy",
+          "name": "Indy",
+          "revision": 1,
+          "status": "none"
+        },
+        {
+          "id": "gb-brands-hatch-gp",
+          "name": "Grand Prix",
+          "revision": 1,
+          "status": "none"
+        }
+      ]
+    },
+    {
+      "id": "gb-snetterton",
+      "name": "Snetterton Motor Racing Circuit",
+      "country": "GB",
+      "lat": 52.4665,
+      "lon": 0.948222,
+      "radius_m": 1500,
+      "aliases": [
+        "Snetterton",
+        "Snetterton Circuit"
+      ],
+      "provenance": {
+        "wikidata": "Q1585125"
+      },
+      "layouts": [
+        {
+          "id": "gb-snetterton-300",
+          "name": "300",
+          "revision": 1,
+          "status": "none"
+        },
+        {
+          "id": "gb-snetterton-200",
+          "name": "200",
+          "revision": 1,
+          "status": "none"
+        },
+        {
+          "id": "gb-snetterton-100",
+          "name": "100",
+          "revision": 1,
+          "status": "none"
+        }
+      ]
+    },
+    {
+      "id": "gb-donington",
+      "name": "Donington Park",
+      "country": "GB",
+      "lat": 52.829167,
+      "lon": -1.375,
+      "radius_m": 1500,
+      "aliases": [
+        "Donington"
+      ],
+      "provenance": {
+        "wikidata": "Q173202"
+      },
+      "layouts": [
+        {
+          "id": "gb-donington-national",
+          "name": "National",
+          "revision": 1,
+          "status": "none"
+        },
+        {
+          "id": "gb-donington-gp",
+          "name": "Grand Prix",
+          "revision": 1,
+          "status": "none"
+        }
+      ]
+    },
+    {
+      "id": "gb-cadwell-park",
+      "name": "Cadwell Park",
+      "country": "GB",
+      "lat": 53.3089,
+      "lon": -0.063056,
+      "radius_m": 1500,
+      "aliases": [
+        "Cadwell"
+      ],
+      "provenance": {
+        "wikidata": "Q1025346"
+      },
+      "layouts": [
+        {
+          "id": "gb-cadwell-park-full",
+          "name": "Full",
+          "revision": 1,
+          "status": "none"
+        }
+      ]
+    },
+    {
+      "id": "gb-oulton-park",
+      "name": "Oulton Park",
+      "country": "GB",
+      "lat": 53.177583,
+      "lon": -2.614361,
+      "radius_m": 1500,
+      "aliases": [
+        "Oulton"
+      ],
+      "provenance": {
+        "wikidata": "Q997133"
+      },
+      "layouts": [
+        {
+          "id": "gb-oulton-park-international",
+          "name": "International",
+          "revision": 1,
+          "status": "none"
+        },
+        {
+          "id": "gb-oulton-park-island",
+          "name": "Island",
+          "revision": 1,
+          "status": "none"
+        },
+        {
+          "id": "gb-oulton-park-fosters",
+          "name": "Fosters",
+          "revision": 1,
+          "status": "none"
+        }
+      ]
+    },
+    {
+      "id": "gb-bedford-autodrome",
+      "name": "Bedford Autodrome",
+      "country": "GB",
+      "lat": 52.2336,
+      "lon": -0.472222,
+      "radius_m": 2000,
+      "aliases": [
+        "Bedford"
+      ],
+      "provenance": {
+        "wikidata": "Q813859"
+      },
+      "layouts": [
+        {
+          "id": "gb-bedford-autodrome-gt",
+          "name": "GT",
+          "revision": 1,
+          "status": "none"
+        },
+        {
+          "id": "gb-bedford-autodrome-west",
+          "name": "West",
+          "revision": 1,
+          "status": "none"
+        },
+        {
+          "id": "gb-bedford-autodrome-east",
+          "name": "East",
+          "revision": 1,
+          "status": "none"
+        }
+      ]
+    },
+    {
+      "id": "gb-castle-combe",
+      "name": "Castle Combe Circuit",
+      "country": "GB",
+      "lat": 51.4897,
+      "lon": -2.2125,
+      "radius_m": 1200,
+      "aliases": [
+        "Castle Combe"
+      ],
+      "provenance": {
+        "wikidata": "Q5050030"
+      },
+      "layouts": [
+        {
+          "id": "gb-castle-combe-circuit",
+          "name": "Circuit",
+          "revision": 1,
+          "status": "none"
+        }
+      ]
+    },
+    {
+      "id": "gb-anglesey",
+      "name": "Anglesey Circuit",
+      "country": "GB",
+      "lat": 53.190042,
+      "lon": -4.497661,
+      "radius_m": 1500,
+      "aliases": [
+        "Trac Môn",
+        "Anglesey"
+      ],
+      "provenance": {
+        "wikidata": "Q4763391"
+      },
+      "layouts": [
+        {
+          "id": "gb-anglesey-international",
+          "name": "International",
+          "revision": 1,
+          "status": "none"
+        },
+        {
+          "id": "gb-anglesey-coastal",
+          "name": "Coastal",
+          "revision": 1,
+          "status": "none"
+        },
+        {
+          "id": "gb-anglesey-national",
+          "name": "National",
+          "revision": 1,
+          "status": "none"
+        }
+      ]
+    },
+    {
+      "id": "gb-thruxton",
+      "name": "Thruxton Circuit",
+      "country": "GB",
+      "lat": 51.210278,
+      "lon": -1.600556,
+      "radius_m": 1500,
+      "aliases": [
+        "Thruxton"
+      ],
+      "provenance": {
+        "wikidata": "Q2465788"
+      },
+      "layouts": [
+        {
+          "id": "gb-thruxton-circuit",
+          "name": "Circuit",
+          "revision": 1,
+          "status": "none"
+        }
+      ]
+    },
+    {
+      "id": "gb-mallory-park",
+      "name": "Mallory Park",
+      "country": "GB",
+      "lat": 52.5986,
+      "lon": -1.33778,
+      "radius_m": 1000,
+      "aliases": [
+        "Mallory"
+      ],
+      "provenance": {
+        "wikidata": "Q1583363"
+      },
+      "layouts": [
+        {
+          "id": "gb-mallory-park-circuit",
+          "name": "Circuit",
+          "revision": 1,
+          "status": "none"
+        }
+      ]
+    },
+    {
+      "id": "gb-croft",
+      "name": "Croft Circuit",
+      "country": "GB",
+      "lat": 54.455833,
+      "lon": -1.562778,
+      "radius_m": 1200,
+      "aliases": [
+        "Croft"
+      ],
+      "provenance": {
+        "wikidata": "Q1074573"
+      },
+      "layouts": [
+        {
+          "id": "gb-croft-circuit",
+          "name": "Circuit",
+          "revision": 1,
+          "status": "none"
+        }
+      ]
+    },
+    {
+      "id": "gb-knockhill",
+      "name": "Knockhill Racing Circuit",
+      "country": "GB",
+      "lat": 56.128861,
+      "lon": -3.503508,
+      "radius_m": 1000,
+      "aliases": [
+        "Knockhill"
+      ],
+      "provenance": {
+        "wikidata": "Q524404"
+      },
+      "layouts": [
+        {
+          "id": "gb-knockhill-circuit",
+          "name": "Circuit",
+          "revision": 1,
+          "status": "none"
+        }
+      ]
+    },
+    {
+      "id": "gb-lydden-hill",
+      "name": "Lydden Hill Race Circuit",
+      "country": "GB",
+      "lat": 51.1774,
+      "lon": 1.19964,
+      "radius_m": 800,
+      "aliases": [
+        "Lydden Hill",
+        "Lydden"
+      ],
+      "provenance": {
+        "wikidata": "Q1878589"
+      },
+      "layouts": [
+        {
+          "id": "gb-lydden-hill-circuit",
+          "name": "Circuit",
+          "revision": 1,
+          "status": "none"
+        }
+      ]
+    },
+    {
+      "id": "gb-goodwood",
+      "name": "Goodwood Circuit",
+      "country": "GB",
+      "lat": 50.8594,
+      "lon": -0.759167,
+      "radius_m": 1500,
+      "aliases": [
+        "Goodwood Motor Circuit",
+        "Goodwood"
+      ],
+      "provenance": {
+        "wikidata": "Q953716"
+      },
+      "layouts": [
+        {
+          "id": "gb-goodwood-circuit",
+          "name": "Circuit",
+          "revision": 1,
+          "status": "none"
+        }
+      ]
+    },
+    {
+      "id": "gb-pembrey",
+      "name": "Pembrey Circuit",
+      "country": "GB",
+      "lat": 51.7056,
+      "lon": -4.32056,
+      "radius_m": 1200,
+      "aliases": [
+        "Pembrey"
+      ],
+      "provenance": {
+        "wikidata": "Q7161930"
+      },
+      "layouts": [
+        {
+          "id": "gb-pembrey-circuit",
+          "name": "Circuit",
+          "revision": 1,
+          "status": "none"
+        }
+      ]
+    }
+  ]
+}
